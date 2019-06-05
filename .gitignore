@@ -1,0 +1,10 @@
+$RECYCLE.BIN/
+packages/
+.vs/
+Bin
+Build
+*.suo
+*.user
+addins/
+TestResult.xml
+*.nupkg

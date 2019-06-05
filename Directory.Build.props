@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+        <BaseIntermediateOutputPath>$(MSBuildThisFileDirectory)\Build\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+        <OutputPath>$(MSBuildThisFileDirectory)\Build\$(MSBuildProjectName)\$(Configuration)</OutputPath>
+        <SolutionDir>$(MSBuildThisFileDirectory)</SolutionDir>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <Authors>Torbjörn Gyllebring</Authors>
+        <Description>Flwr - because moving data should make you feel rosy</Description>
+        <RepositoryUrl>https://github.com/drunkcod/Flwr</RepositoryUrl>
+    </PropertyGroup>
+</Project>
